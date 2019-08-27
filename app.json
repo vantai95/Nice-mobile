@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "NiceMeal",
+    "slug": "nice-meal-mobile",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "0.2",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.imt.nicemeal",
+      "buildNumber": "1.0.2",
+      "infoPlist": {
+        "UIStatusBarStyle": "UIStatusBarStyleLightContent"
+      }
+    },
+    "android": {
+      "package": "com.imt.nicemeal",
+      "versionCode": 3,
+      "permissions": [
+        "CALL_PHONE",
+        "READ_PHONE_STATE"
+      ],
+      "googleServicesFile": "./google-services.json"
+    },
+    "androidStatusBar": {
+      "backgroundColor": "#ffffff"
+    }
+  }
+}

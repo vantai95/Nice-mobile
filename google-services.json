@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "255968256043",
+    "firebase_url": "https://nicemealmobile.firebaseio.com",
+    "project_id": "nicemealmobile",
+    "storage_bucket": "nicemealmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255968256043:android:b8faee6b8d861767",
+        "android_client_info": {
+          "package_name": "com.imt.nicemeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255968256043-fjf2nibd9679ljlb1tp7tlqc9hbatpab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-HkJa5z2nk1OnI3z76ctp-LIJJbD1cI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255968256043-fjf2nibd9679ljlb1tp7tlqc9hbatpab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "255968256043-4n3bnk6m65hgqf96cjqvs31uj9mk0ujc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.imt.nicemeal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
