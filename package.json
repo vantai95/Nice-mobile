@@ -17,7 +17,7 @@
     "eslint-plugin-react-native": "^3.6.0",
     "ex-react-native-i18n": "0.0.5",
     "expo": "^32.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "native-base": "^2.10.0",
     "prop-types": "^15.7.2",
     "react": "16.5.0",
